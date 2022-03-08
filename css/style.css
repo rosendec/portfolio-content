@@ -4,6 +4,10 @@ html {
 	background: url('images/background.jpeg') no-repeat center center fixed; 
 }
 
+.fa {
+	display: inline;
+}
+
 body {
 	font-family: 'Tahoma', 'Times New Roman';
 	margin:1%;
