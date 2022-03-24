@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	font-family: 'Verdana', 'Times New Roman';
+	font-family: 'Rubik', 'Times New Roman';
 	margin:1%;
 	padding:1%;
 	font-size:150%;
@@ -83,9 +83,3 @@ nav li{
 }
 
 a:visited{color:#0000FF}
-
-@media only screen and (max-width: 600px) {
-	body {
-		font-family: 'Rubik', 'Times New Roman';
-	}
-}
