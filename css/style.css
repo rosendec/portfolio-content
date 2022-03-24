@@ -85,7 +85,7 @@ nav li{
 #backgroundimg {
 	background: black url('../images/stripes.png') space center center scroll;
 	color: white;
-	animation: animatedBackground 5s linear 0s 1 infinite alternate;
+	animation: animatedBackground 5s linear 0s infinite alternate;
 }
 
 @keyframes animatedBackground {
