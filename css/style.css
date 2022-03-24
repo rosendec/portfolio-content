@@ -47,18 +47,22 @@ img:hover {
 
 .one{
 	background: white;
+	color: black;
 }
 
 .two{
-	background: #D3D3D3;
+	background: black;
+	color: white;
 }
 
 .three{
-	background: #0FFF50;
+	background: #000000;
+	color: #0FFF50;
 }
 
 .four{
-	background: #FF0000;
+	background: black;
+	color: #10B5F2;
 }
 
 .five{
