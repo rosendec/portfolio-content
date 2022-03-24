@@ -90,7 +90,7 @@ nav li{
     animation: 5s linear 0s 1 mymove;
 }*/
 
-/*a:visited{color:#0000FF}*/
+a:visited{color:inherit}
 
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
