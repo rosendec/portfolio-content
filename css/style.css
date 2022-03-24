@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
 
-html {
-	background: url('images/background.jpeg') no-repeat center center fixed; 
-}
-
 .fa {
 	display: inline;
 }
@@ -84,6 +80,10 @@ nav li{
  	width:25%;
  	border:5px dotted black;
  	display: inline-block;
+}
+
+#backgroundimg {
+	background: url('../images/background.jpeg') no-repeat center center fixed; 
 }
 
 /*#anim {
