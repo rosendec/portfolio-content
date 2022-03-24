@@ -56,8 +56,8 @@ img:hover {
 }
 
 .three{
-	background: #000000;
-	color: #0FFF50;
+	background: #F21010;
+	color: #F2EB10;
 }
 
 .four{
@@ -90,7 +90,7 @@ nav li{
     animation: 5s linear 0s 1 mymove;
 }*/
 
-a:visited{color:#0000FF}
+/*a:visited{color:#0000FF}*/
 
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
