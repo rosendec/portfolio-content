@@ -82,4 +82,14 @@ nav li{
  	display: inline-block;
 }
 
+/*#anim {
+    animation: 5s linear 0s 1 mymove;
+}*/
+
 a:visited{color:#0000FF}
+
+@media screen and (prefers-reduced-motion: reduce) {
+        #anim {
+            animation: none;
+        }
+    }
