@@ -87,9 +87,10 @@ nav li{
 	color: white;
 }
 
-/*#anim {
-    animation: 5s linear 0s 1 mymove;
-}*/
+#anim {
+    animation: 5s linear 0s 1 infinite alternate;
+}
+
 a{color:inherit}
 a:visited{color:inherit}
 
