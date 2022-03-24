@@ -41,30 +41,6 @@ img:hover {
 	text-decoration: none;;
 }
 
-.one{
-	background: white;
-	color: black;
-}
-
-.two{
-	background: black;
-	color: white;
-}
-
-.three{
-	background: #F21010;
-	color: #F2EB10;
-}
-
-.four{
-	background: black;
-	color: #10B5F2;
-}
-
-.five{
-	background: #FFA500;
-}
-
 p, h1 {
 	padding: 25px;
 	
@@ -105,8 +81,7 @@ nav li{
         animation-name: slide;
 }
 
-a{color:inherit}
-a:visited{color:inherit}
+a:visited{color:blue}
 
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
