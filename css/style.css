@@ -88,13 +88,21 @@ nav li{
 	animation: animatedBackground 5s linear 0s infinite alternate;
 }
 
-@keyframes animatedBackground {
+@keyframes slide {
   from {
-    background-position: 0 0;
+    margin-left: 100%;
+    width: 300%;
   }
+
   to {
-    background-position: 100% 0;
+    margin-left: 0%;
+    width: 100%;
   }
+}
+
+#anim{
+	animation-duration: 2s;
+        animation-name: slide;
 }
 
 a{color:inherit}
