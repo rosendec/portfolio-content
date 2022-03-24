@@ -83,8 +83,9 @@ nav li{
 }
 
 #backgroundimg {
-	background: url('../images/trilogylogo.png') no-repeat center center fixed;
+	background: url('../images/stripes.png') no-repeat center center fixed;
 	background-attachment: fixed;
+	color: white;
 }
 
 /*#anim {
