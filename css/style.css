@@ -83,7 +83,7 @@ nav li{
 }
 
 #backgroundimg {
-	background: black url('../images/stripes.png') repeat-y center center scroll;
+	background: black url('../images/stripes.png') space center center scroll;
 	color: white;
 }
 
