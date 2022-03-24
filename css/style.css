@@ -83,8 +83,7 @@ nav li{
 }
 
 #backgroundimg {
-	background: black url('../images/stripes.png') no-repeat center center fixed;
-	background-attachment: fixed;
+	background: black url('../images/stripes.png') repeat-y center center fixed;
 	color: white;
 }
 
