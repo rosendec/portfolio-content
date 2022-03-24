@@ -85,11 +85,17 @@ nav li{
 #backgroundimg {
 	background: black url('../images/stripes.png') space center center scroll;
 	color: white;
+	animation: animatedBackground 5s linear 0s 1 infinite alternate;
 }
 
-/*#anim {
-    animation: 5s linear 0s 1 infinite alternate;
-}*/
+@keyframes animatedBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 100% 0;
+  }
+}
 
 a{color:inherit}
 a:visited{color:inherit}
