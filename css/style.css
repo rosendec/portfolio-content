@@ -113,6 +113,7 @@ a:visited{color:blue}
 	display: flex;
 	justify-content: space-around;
 	flex-flow: row nowrap;
+	flex-shrink: 1;
 }
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
