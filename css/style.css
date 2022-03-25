@@ -92,13 +92,6 @@ nav li{
 
 a:visited{color:blue}
 
-/*.skip {
-	left: 50%;
- 	 position: absolute;
-	  transform: translateY(-100%);
-
-}*/
-
  a.skip{
     background: white;
     left: 0;
@@ -116,6 +109,11 @@ a:visited{color:blue}
     text-decoration-style: solid;
   }
 
+.imgset {
+	display: flex;
+	justify-content: space-around;
+	flex-flow: row nowrap;
+}
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
             animation: none;
