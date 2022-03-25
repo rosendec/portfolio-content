@@ -42,9 +42,12 @@ img:hover {
 }
 
 h1, p {
-	padding:25px;
+	padding:5%;
 }
 
+.foot {
+	padding:1%;
+}
 header, nav, main, h1, footer{
 	border:2px solid black;
 	margin: 10px 0;
