@@ -92,12 +92,29 @@ nav li{
 
 a:visited{color:blue}
 
-.skip {
+/*.skip {
 	left: 50%;
  	 position: absolute;
 	  transform: translateY(-100%);
 
-}
+}*/
+
+ a.skip{
+    background: white;
+    left: 0;
+    padding: 6px;
+    position: absolute;
+    top: -40px;
+    -webkit-transition: top 1s ease-out;
+    transition: top 1s ease-out;
+    z-index: 1;
+  }
+  
+  a.skip:focus{
+    top:20px;
+    color: black;
+    text-decoration-style: solid;
+  }
 
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
