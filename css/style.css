@@ -6,13 +6,12 @@
 
 body {
 	font-family: 'Rubik', 'Times New Roman';
-	margin:1%;
+	margin:10%;
 	padding:1%;
 	font-size:150%;
 }
 
 h1 {
-	padding: 25px;
 	font-size: 2em;
 	font-weight: bold;
 }
@@ -42,8 +41,8 @@ img:hover {
 	text-decoration: none;;
 }
 
-p {
-	padding:75px;
+h1, p {
+	padding:25px;
 }
 
 header, nav, main, h1, footer{
