@@ -109,12 +109,31 @@ a:visited{color:blue}
     text-decoration-style: solid;
   }
 
-.imgset {
+.imgflex {
 	display: flex;
 	justify-content: space-around;
 	flex-flow: row nowrap;
 	flex-shrink: 1;
 }
+
+.imggrid1 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	column-gap: 50px;
+}
+
+.imggrid2 {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	column-gap: 50px;
+}
+
+.imggrid3 {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 50px;
+}
+
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
             animation: none;
