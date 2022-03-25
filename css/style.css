@@ -92,10 +92,10 @@ nav li{
 
 a:visited{color:blue}
 
-/*#main {
+.skip {
 	left: 50%;
  	 position: absolute;
-}*/
+}
 
 @media screen and (prefers-reduced-motion: reduce) {
         #anim {
