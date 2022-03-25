@@ -11,7 +11,8 @@ body {
 	font-size:150%;
 }
 
-h1{
+h1 {
+	padding: 25px;
 	font-size: 2em;
 	font-weight: bold;
 }
@@ -41,9 +42,8 @@ img:hover {
 	text-decoration: none;;
 }
 
-p, h1 {
-	padding: 25px;
-	
+p {
+	padding:75px;
 }
 
 header, nav, main, h1, footer{
