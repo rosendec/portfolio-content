@@ -95,6 +95,8 @@ a:visited{color:blue}
 .skip {
 	left: 50%;
  	 position: absolute;
+	  transform: translateY(-100%);
+
 }
 
 @media screen and (prefers-reduced-motion: reduce) {
