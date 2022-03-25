@@ -6,6 +6,7 @@
 
 body {
 	font-family: 'Rubik', 'Times New Roman';
+	/*margin:1%;*/
 	margin:10%;
 	padding:1%;
 	font-size:150%;
@@ -47,7 +48,7 @@ h1, p {
 
 header, nav, main, h1, footer{
 	border:2px solid black;
-	margin: 10px 0;
+	/*margin: 10px 0;*/
 }
 
 nav li{
