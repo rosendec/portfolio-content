@@ -68,7 +68,7 @@ nav li{
 }
 
 .backgroundimg {
-	background: black url('../images/stripes.png') space center center scroll;
+	background: black url('../images/stripes.png') space center center fixed;
 	color: white;
 	animation: animatedBackground 5s linear 0s infinite alternate;
 }
@@ -138,4 +138,7 @@ a:visited{color:blue}
         #anim {
             animation: none;
         }
+	.backgroundimg {
+		background-attachment: scroll;
+	}
     }
