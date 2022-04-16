@@ -13,11 +13,13 @@ nav, audio, video, .fa, img:hover, .active, .foot,
 	font: inherit;
 	vertical-align: baseline;
 	background: white;
-	text-color: black;
+	color: black;
 	text-transform: none;
 	font-weight: normal;
 	text-align: left;
 	animation: none;
+	border-radius: 0;
+	
 }
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
