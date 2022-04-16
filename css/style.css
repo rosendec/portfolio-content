@@ -200,7 +200,9 @@ a:visited{color:blue}
 .flip-card {
 	background-color: transparent;
 	height: 200px;
+	width: 170px;
 	perspective: 1000px;
+	border-radius: 25px;
 }
 
 .flip-card-inner {
