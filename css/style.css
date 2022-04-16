@@ -77,6 +77,10 @@ main {
 	font-size:125%;
 }
 
+main > p {
+	font-size:100%;
+}
+
 p {
 	margin: 3%;
 }
