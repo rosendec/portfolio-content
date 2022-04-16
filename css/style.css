@@ -71,6 +71,7 @@ main {
 
 p {
 	margin: 3%;
+	font-size:125%;
 }
 
 .foot {
@@ -207,7 +208,9 @@ a:visited{color:blue}
 	body {
 		margin:1%;
 		padding:1%;
-		font-size:175%;
+	}
+	p {
+		font-size:150%;
 	}
 }
 
@@ -215,6 +218,8 @@ a:visited{color:blue}
 	  body {
 		margin:1%;
 		padding:1%;
-		font-size:200%;
+	  }
+	  p {
+		font-size:175%;
 	  }
 }
