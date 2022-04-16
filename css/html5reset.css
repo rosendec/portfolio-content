@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, h6, p,
 em, img,
 dl, dt, dd, ol, ul,
 fieldset, form, label, table, footer, 
-nav, audio, video, .fa, img:hover, .active,
+audio, video, .fa, img:hover, .active,
 .imgflex, .imggrid1, .imggrid2, .imggrid3
 {
 	margin: 0;
@@ -20,6 +20,13 @@ nav, audio, video, .fa, img:hover, .active,
 	animation: none;
 	border-radius: 0;
 	background-image: none;
+}
+
+nav {
+	font-weight: normal;
+	text-align: left;
+	text-transform: none;
+	color: black;
 }
 
 .backgroundimg, .backgroundimg > p {
