@@ -38,6 +38,7 @@ img:hover {
 	text-transform: uppercase;
 	color: #0000FF;
 	font-weight: bold;
+	font-family: 'Rubik', 'Times New Roman';
 }
 
 .active a{
