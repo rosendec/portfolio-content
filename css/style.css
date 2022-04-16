@@ -36,6 +36,7 @@ img:hover {
 	background: #ECFF4D;
 	text-transform: uppercase;
 	color: #0000FF;
+	font-weight: bold;
 }
 
 .active a{
