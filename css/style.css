@@ -69,7 +69,11 @@ p {
 	margin: 0px;
 }
 
-nav li{
+nav {
+	margin: auto;
+}
+
+li{
  	padding:10px;
  	width:25%;
  	border:5px dotted black;
