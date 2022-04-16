@@ -260,8 +260,8 @@ a:visited{color:blue}
 		background-attachment: scroll;
 	}
 	img:hover {
-		height: inherit;
-		border-radius: inherit;
+		height: 200px;
+		border-radius: 25px;
 	}
 	.flip-card {
 		perspective: none;
