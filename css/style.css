@@ -82,7 +82,7 @@ li{
 	background: black url('../images/stripes.png') space center center fixed;
 	color: white;
 	animation: animatedBackground 5s linear 0s 1 alternate;
-	text-family: "Helvetica";
+	font-family: "Helvetica";
 }
 
 @keyframes slide {
