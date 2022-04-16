@@ -4,7 +4,7 @@ a, em, img,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, table, footer, header, 
 nav, audio, video, .fa, img:hover, .active,
-.backgroundimg, #anim, .imgflex, .imggrid1, .imggrid2, .imggrid3, nav li
+.imgflex, .imggrid1, .imggrid2, .imggrid3, nav li
 {
 	margin: 0;
 	padding: 0;
@@ -21,6 +21,13 @@ nav, audio, video, .fa, img:hover, .active,
 	border-radius: 0;
 	background-image: none;
 }
+
+.backgroundimg, .backgroundimg > p {
+	background: white;
+	color: black;
+	animation: none;
+}
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
