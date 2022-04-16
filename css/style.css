@@ -41,6 +41,7 @@ img:hover {
 	color: #0000FF;
 	font-weight: bold;
 	font-family: 'Rubik', 'Times New Roman';
+	text-align: center;
 }
 
 .active a{
