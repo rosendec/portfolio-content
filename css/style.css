@@ -70,7 +70,8 @@ p {
 }
 
 nav {
-	margin: auto;
+	display: block;
+	margin: auto;	
 }
 
 li{
