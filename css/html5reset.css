@@ -11,7 +11,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video, .fa, img:hover, .active, .foot,
-.backgroundimg, #anim, .imgflex, .imggrid1, .imggrid2, .imggrid3
+.backgroundimg, #anim, .imgflex, .imggrid1, .imggrid2, .imggrid3, nav li
 {
 	margin: 0;
 	padding: 0;
@@ -19,6 +19,10 @@ time, mark, audio, video, .fa, img:hover, .active, .foot,
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	background: white;
+	text-color: black;
+	text-transform: none;
+	font-weight: normal;
 }
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
