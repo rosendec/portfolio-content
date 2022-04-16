@@ -81,7 +81,7 @@ li{
 .backgroundimg, .backgroundimg > p {
 	background: black url('../images/stripes.png') space center center fixed;
 	color: white;
-	animation: animatedBackground 5s linear 0s infinite alternate;
+	animation: animatedBackground 5s linear 0s 1 alternate;
 }
 
 @keyframes slide {
