@@ -150,6 +150,11 @@ a:visited{color:blue}
 	justify-content: space-around;
 	flex-flow: row nowrap;
 	flex-shrink: 1;
+	background: rgb(214, 0, 33);
+}
+
+.imggrid1, .imggrid2, .imggrid3 {
+	background: black;
 }
 
 .imggrid1 {
