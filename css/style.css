@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 .fa {
 	display: inline;
@@ -99,7 +99,7 @@ li{
 	background: rgb(214, 0, 33);
 	color: rgb(239, 198, 18);
 	font-weight: bold;
-	font-family: "Alfa Slab One";
+	font-family: "Oswald";
 }
 
 .move, .move > p {
