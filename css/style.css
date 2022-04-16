@@ -36,7 +36,6 @@ img:hover {
 }
 
 .active{
-	text-align: center;
 	background: #ECFF4D;
 	text-transform: uppercase;
 	color: #0000FF;
@@ -76,6 +75,7 @@ li{
  	width:25%;
  	border:5px dotted black;
  	display: inline-block;
+	text-align: center;
 }
 
 .backgroundimg, .backgroundimg > p {
