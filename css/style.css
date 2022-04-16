@@ -163,6 +163,7 @@ a:visited{color:blue}
 
 .imggrid1, .imggrid2, .imggrid3 {
 	background: black;
+	justify-items: center;
 }
 
 .imggrid1 {
