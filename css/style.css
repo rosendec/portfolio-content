@@ -5,7 +5,7 @@
 	display: inline;
 }
 
-body {
+body, nav {
 	font-family: 'Rubik', 'Times New Roman';
 	margin:1%;
 	padding:1%;
