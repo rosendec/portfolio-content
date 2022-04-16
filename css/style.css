@@ -70,7 +70,7 @@ nav li{
  	display: inline-block;
 }
 
-.backgroundimg {
+.backgroundimg, .background > p {
 	background: black url('../images/stripes.png') space center center fixed;
 	color: white;
 	animation: animatedBackground 5s linear 0s infinite alternate;
