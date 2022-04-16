@@ -203,6 +203,9 @@ a:visited{color:blue}
 	width: 170px;
 	perspective: 1000px;
 	border-radius: 25px;
+	font-size: 10px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .flip-card-inner {
