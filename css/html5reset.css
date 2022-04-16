@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, h6, p,
 a, em, img,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, table, footer, header, 
-nav, audio, video, .fa, img:hover, .active, .foot,
+nav, audio, video, .fa, img:hover, .active,
 .backgroundimg, #anim, .imgflex, .imggrid1, .imggrid2, .imggrid3, nav li
 {
 	margin: 0;
@@ -19,7 +19,7 @@ nav, audio, video, .fa, img:hover, .active, .foot,
 	text-align: left;
 	animation: none;
 	border-radius: 0;
-	
+	background-image: none;
 }
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
