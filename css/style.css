@@ -65,6 +65,10 @@ header, main, h1, footer{
 	border:2px solid black;
 }
 
+main {
+	padding: 5%;
+}
+
 p {
 	margin: 3%;
 }
