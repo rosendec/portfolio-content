@@ -17,6 +17,7 @@ nav, audio, video, .fa, img:hover, .active, .foot,
 	text-transform: none;
 	font-weight: normal;
 	text-align: left;
+	animation: none;
 }
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
