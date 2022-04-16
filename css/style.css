@@ -28,7 +28,7 @@ img, img:hover {
 
 img {
 	width: 200px;
-	border-radius: 2.5%/5%;
+	border-radius: 15px;
 }
 
 img:hover {
