@@ -7,8 +7,8 @@
 
 body {
 	font-family: 'Rubik', 'Times New Roman';
-	margin:1%;
-	padding:1%;
+	margin:0px;
+	padding:0px;
 	font-size:150%;
 	line-height: 1.2;
 }
@@ -202,3 +202,17 @@ a:visited{color:blue}
 		background-attachment: scroll;
 	}
     }
+
+@media only screen and (min-width: 600px) {
+	body {
+		margin:1%;
+		padding:1%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	  body {
+		margin:1%;
+		padding:1%;
+	  }
+}
