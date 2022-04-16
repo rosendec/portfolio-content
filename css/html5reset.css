@@ -1,10 +1,10 @@
 html, body, div, span,
 h1, h2, h3, h4, h5, h6, p,
 a, em, img,
-dl, dt, dd, ol, ul, li,
+dl, dt, dd, ol, ul,
 fieldset, form, label, table, footer, header, 
 nav, audio, video, .fa, img:hover, .active,
-.imgflex, .imggrid1, .imggrid2, .imggrid3, nav li
+.imgflex, .imggrid1, .imggrid2, .imggrid3
 {
 	margin: 0;
 	padding: 0;
