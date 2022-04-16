@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 .fa {
 	display: inline;
 }
@@ -92,6 +93,20 @@ li{
 	animation: animatedBackground 5s linear 0s 1 alternate;
 	font-family: "Helvetica";
 	font-weight: bold;
+}
+
+.blaze, .blaze > p {
+	background: rgb(214, 0, 33);
+	color: rgb(239, 198, 18);
+	font-weight: bold;
+	font-family: "Alfa Slab One";
+}
+
+.move, .move > p {
+	background: black;
+	color: rgb(178, 66, 26);
+	font-weight: bold;
+	font-family: "Abril Fatface";
 }
 
 @keyframes slide {
