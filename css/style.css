@@ -54,8 +54,11 @@ h1, p {
 
 
 header, nav, main, h1, footer{
-	border:2px solid black;
 	margin: 10px 0;
+}
+
+header, main, h1, footer{
+	border:2px solid black;
 }
 
 p {
