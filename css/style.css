@@ -67,11 +67,11 @@ header, main, h1, footer{
 
 main {
 	padding: 3%;
+	font-size:125%;
 }
 
 p {
 	margin: 3%;
-	font-size:125%;
 }
 
 .foot {
@@ -209,7 +209,7 @@ a:visited{color:blue}
 		margin:1%;
 		padding:1%;
 	}
-	p {
+	main {
 		font-size:150%;
 	}
 }
@@ -219,7 +219,7 @@ a:visited{color:blue}
 		margin:1%;
 		padding:1%;
 	  }
-	  p {
+	  main {
 		font-size:175%;
 	  }
 }
