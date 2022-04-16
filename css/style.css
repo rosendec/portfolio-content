@@ -5,13 +5,14 @@
 	display: inline;
 }
 
-body, nav {
+body {
 	font-family: 'Rubik', 'Times New Roman';
 	margin:1%;
 	padding:1%;
 	font-size:150%;
 	line-height: 1.2;
 }
+
 
 h1 {
 	margin: 1%;
@@ -81,6 +82,8 @@ nav {
 	display: block;
 	text-align: center;
 	margin: auto;
+	padding: 1%;
+	line-height: 1.2;
 }
 
 li{
