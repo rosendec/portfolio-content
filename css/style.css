@@ -96,19 +96,23 @@ nav {
 	padding: 1%;
 	line-height: 1.2;
 	color: blue;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	@media (min-width: 600px) {
+		justify-content: space-between;
+	}
 }
 
 ul {
-	display: flex;
+	display: block;
 	list-style-type: disc;
 	margin-block-start: 1em;
 	margin-block-end: 1em;
 	margin-inline-start: 0px;
 	margin-inline-end: 0px;
 	padding-inline-start: 0px;
-	justify-content: center;
-	align-items: center;
-	
 	text-align: center;	
 }
 
